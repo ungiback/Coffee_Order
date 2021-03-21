@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "943678186460",
+    "firebase_url": "https://cafeorderapp-b9a0f.firebaseio.com",
+    "project_id": "cafeorderapp-b9a0f",
+    "storage_bucket": "cafeorderapp-b9a0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943678186460:android:43fdf46f3ee792b4a06519",
+        "android_client_info": {
+          "package_name": "com.example.backtest3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943678186460-smnott1a62gaqhmva3n368p2vlca2j3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.backtest3",
+            "certificate_hash": "07adfcba155df2858b72d63eb70bdff04d2b7727"
+          }
+        },
+        {
+          "client_id": "943678186460-iv8en4581ek6edbjakeo1spjs2lp3e32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtKGDOWuy15CRuTW0Zl-8eTg_U_4iiKEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943678186460-iv8en4581ek6edbjakeo1spjs2lp3e32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
